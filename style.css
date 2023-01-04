@@ -14,8 +14,8 @@ body{
   text-align: center;
 }
 .container img {
-  height: 430px;
-  object-fit: cover;
+  width:350px;
+  height:350px;
 }
 .btn{
   padding: 8px 20px;
